@@ -8,7 +8,11 @@ This repository contains a collection of IPython notebooks on subjects I find in
 
 * [python-data](#python-data)
 * [numpy](#numpy)
+* [pandas](#pandas)
 * [matplotlib](#matplotlib)
+* [scikit-learn](#scikit-learn)
+* [spark](#spark)
+* [aws](#aws)
 
 ## python-data
 
@@ -25,6 +29,8 @@ This repository contains a collection of IPython notebooks on subjects I find in
 | [Fancy-Indexing](http://nbviewer.jupyter.org/github/FreddyBruce/ipython-notebooks/blob/master/numpy/02.07-Fancy-Indexing.ipynb) | Learn about fancy indexing in NumPy. |
 | [Sorting](http://nbviewer.jupyter.org/github/FreddyBruce/ipython-notebooks/blob/master/numpy/02.08-Sorting.ipynb) | Learn about sorting arrays in NumPy. |
 | [Structured-Data-NumPy](http://nbviewer.jupyter.org/github/FreddyBruce/ipython-notebooks/blob/master/numpy/02.09-Structured-Data-NumPy.ipynb) | Learn about structured data: NumPy's structured arrays. |
+
+## pandas
 
 ## matplotlib
 | Notebook | Description |
@@ -44,3 +50,9 @@ This repository contains a collection of IPython notebooks on subjects I find in
 | [Three-Dimensional-Plotting](http://nbviewer.jupyter.org/github/FreddyBruce/ipython-notebooks/blob/master/matplotlib/04.12-Three-Dimensional-Plotting.ipynb) | Learn about three-dimensional plotting in Matplotlib. |
 | [Geographic-Data-With-Basemap](http://nbviewer.jupyter.org/github/FreddyBruce/ipython-notebooks/blob/master/matplotlib/04.13-Geographic-Data-With-Basemap.ipynb) | Learn about geographic data with basemap in Matplotlib. |
 | [Visualization-With-Seaborn](http://nbviewer.jupyter.org/github/FreddyBruce/ipython-notebooks/blob/master/matplotlib/04.14-Visualization-With-Seaborn.ipynb) | Learn about visualization with Seaborn. |
+
+## scikit-learn
+
+## spark
+
+## pandas
