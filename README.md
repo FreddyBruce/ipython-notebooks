@@ -1,8 +1,17 @@
 ipython-notebooks
 =================
 
-This contains a collection of IPython notebooks that I have created to explore subjects I find interesting and experiment with libraries.
+This repository contains a collection of IPython notebooks on subjects I find interesting; some developed by Freddy Bruce, and some from third-parties. 
 
 
-#### language
-<a href="https://github.com/FreddyBruce/ipython-notebooks/blob/master/language/ipython-commands.ipynb">IPython Commands</a>
+## Index
+
+* [python-data](#python-data)
+* [numpy](#numpy)
+* [matplotlib](#matplotlib)
+
+## python-data
+
+## numpy
+
+## matplotlib
