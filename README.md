@@ -1,20 +1,17 @@
 ipython-notebooks
 =================
 
-This repository contains a collection of IPython notebooks on subjects I find interesting; some developed by Freddy Bruce, and some from third-parties. 
+This repository contains a collection of IPython notebooks on subjects I find interesting; some developed by Freddy Bruce, and some from third-parties.
 
 
 ## Index
 
-* [python-data](#python-data)
 * [numpy](#numpy)
 * [pandas](#pandas)
 * [matplotlib](#matplotlib)
 * [scikit-learn](#scikit-learn)
-* [spark](#spark)
-* [aws](#aws)
+* [feature-engineering](#feature-engineering)
 
-## python-data
 
 ## numpy
 | Notebook | Description |
@@ -51,8 +48,12 @@ This repository contains a collection of IPython notebooks on subjects I find in
 | [Geographic-Data-With-Basemap](http://nbviewer.jupyter.org/github/FreddyBruce/ipython-notebooks/blob/master/matplotlib/04.13-Geographic-Data-With-Basemap.ipynb) | Learn about geographic data with basemap in Matplotlib. |
 | [Visualization-With-Seaborn](http://nbviewer.jupyter.org/github/FreddyBruce/ipython-notebooks/blob/master/matplotlib/04.14-Visualization-With-Seaborn.ipynb) | Learn about visualization with Seaborn. |
 
-## scikit-learn
-
-## spark
-
-## pandas
+## feature-engineering
+| Notebook | Description |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [feature-engineering-numeric-data](https://github.com/FreddyBruce/ipython-notebooks/blob/master/feature-engineering/feature-engineering-numeric-data.ipynb) | Learn about feature engineering for numeric data. |
+| [feature-engineering-categorical-data](https://github.com/FreddyBruce/ipython-notebooks/blob/master/feature-engineering/feature-engineering-categorical-data.ipynb) | Learn about feature engineering for categorical data. |
+| [feature-engineering-temporal-data](https://github.com/FreddyBruce/ipython-notebooks/blob/master/feature-engineering/feature-engineering-temporal-data.ipynbts.ipynb) | Learn about feature engineering for temporal data. |
+| [feature-scaling](https://github.com/FreddyBruce/ipython-notebooks/blob/master/feature-engineering/feature-scaling.ipynb) | Learn about feature scaling. |
+| [feature-selection](https://github.com/FreddyBruce/ipython-notebooks/blob/master/feature-engineering/feature-selection.ipynb) | A very brief intro to feature selection. |
+| [automated-feature-engineering](https://github.com/FreddyBruce/ipython-notebooks/blob/master/feature-engineering/automated-feature-engineeering.ipynb) | Exploring featuretools, a package to automate feature engineering. |
